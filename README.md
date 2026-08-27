@@ -98,20 +98,6 @@ customer-facing property discovery.
 
 ---
 
-<!-- ## 📊 GitHub Analytics -->
-
-### GitHub Stats
-
-📊 GitHub Analytics
-
-GitHub statistics will be added here using a reliable stats setup to avoid broken external images.
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AeroAkash&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AeroAkash&theme=tokyonight&hide_border=true)
