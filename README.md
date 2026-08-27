@@ -102,7 +102,9 @@ customer-facing property discovery.
 
 ### GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AeroAkash&show_icons=true&theme=tokyonight&hide_border=true)
+📊 GitHub Analytics
+
+GitHub statistics will be added here using a reliable stats setup to avoid broken external images.
 
 ### Top Languages
 
