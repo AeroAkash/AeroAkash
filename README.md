@@ -13,7 +13,7 @@ user-friendly applications.
 
 ## 🚀 About Me
 
-- 💼 2+ years of professional software development experience
+- 💼 2.9+ years of professional software development experience
 - 🔭 Currently working as a Full Stack Developer
 - 🧠 Strong focus on PHP, Laravel, CodeIgniter and MySQL
 - ⚛️ Experienced with React and Next.js
