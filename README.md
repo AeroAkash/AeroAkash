@@ -98,24 +98,15 @@ customer-facing property discovery.
 
 ---
 
-<!-- ## 📊 GitHub Stats
+<!-- ## 📊 GitHub Analytics -->
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroAkash&show_icons=true&theme=tokyonight&hide_border=true)
+### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AeroAkash&layout=compact&theme=tokyonight&hide_border=true) -->
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AeroAkash&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
+### Top Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AeroAkash&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Akash's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeroAkash&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Akash's Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AeroAkash&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
